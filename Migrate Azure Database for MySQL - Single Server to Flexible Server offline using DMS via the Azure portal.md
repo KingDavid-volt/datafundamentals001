@@ -5,13 +5,14 @@ Outline
 1. Download and install Mysql database server and Mysql workbench
 1. create two databases on a Local Mysql server
 1. Create a resource group on azure portal
-1. create a azure Mysql single server
-1. create a azure Mysql flexible server
-1. create a virtual network
-1. create azure data migration service
-1. create a new migration
-1. move database 1 and 2 from local server to single server via manual export and import
-1. move database 1 from single server to flexible server via
+  https://github.com/KingDavid-volt/datafundamentals001/blob/cb3ede5211fba96c5cd07dc7f5aaef1016c88886/images/Create%20a%20resource%20group%20on%20azure.png
+3. create a azure Mysql single server
+4. create a azure Mysql flexible server
+5. create a virtual network
+6. create azure data migration service
+7. create a new migration
+8. move database 1 and 2 from local server to single server via manual export and import
+9. move database 1 from single server to flexible server via
 azure Data Migration Service
 1. Move database 2 from single server to flexible server via, Mysql workbench migration
 ***
